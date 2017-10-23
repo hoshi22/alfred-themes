@@ -16,7 +16,11 @@
       },
       "backgroundSelected" : "#000C1663",
       "text" : {
+<<<<<<< HEAD
         "size" : 14,
+=======
+        "size" : 13,
+>>>>>>> 40248bde89bd76cf9ae303506a2cb6bbad684c14
         "colorSelected" : "#D1CFC6FF",
         "font" : "System",
         "color" : "#FEF6EBFF"
