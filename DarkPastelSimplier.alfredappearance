@@ -1,22 +1,22 @@
 {
   "alfredtheme" : {
     "result" : {
-      "textSpacing" : 10,
+      "textSpacing" : 8,
       "subtext" : {
-        "size" : 12,
+        "size" : 9,
         "colorSelected" : "#FEF6EBFF",
         "font" : "System",
         "color" : "#8A8982FF"
       },
       "shortcut" : {
         "size" : 16,
-        "colorSelected" : "#96C0CEFF",
+        "colorSelected" : "#706F6BFF",
         "font" : "System",
         "color" : "#A6A59EFF"
       },
       "backgroundSelected" : "#000C1663",
       "text" : {
-        "size" : 16,
+        "size" : 13,
         "colorSelected" : "#D1CFC6FF",
         "font" : "System",
         "color" : "#FEF6EBFF"
@@ -26,11 +26,11 @@
       "iconSize" : 40
     },
     "search" : {
-      "paddingVertical" : 18,
+      "paddingVertical" : 12,
       "background" : "#74828FFF",
       "spacing" : 0,
       "text" : {
-        "size" : 30,
+        "size" : 22,
         "colorSelected" : "#FFFFFFFF",
         "font" : "System",
         "color" : "#FEF6EBFF"
@@ -56,6 +56,6 @@
       "color" : "#8A8982FF",
       "thickness" : 2
     },
-    "name" : "Dark Pastel Simplier"
+    "name" : "Dark Pastel Smaller"
   }
 }
